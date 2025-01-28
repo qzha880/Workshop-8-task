@@ -10,6 +10,7 @@ Workshop 8 task
 - I experimented the process by following the workshop 8 video.
 
 <img width="898" alt="截屏2025-01-28 08 49 58" src="https://github.com/user-attachments/assets/d6bb89de-efaa-456b-95c7-805b18bad1e7" />
+
 (URL: https://nech691.github.io/WorkShop_8/)
 
 - Because of this example, I wanted to make a webpage that shows the current weather in TianJin (my city).
